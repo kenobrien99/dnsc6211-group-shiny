@@ -1,3 +1,6 @@
+# adopted from shiny superzip example
+
+
 library(shiny)
 library(leaflet)
 library(RColorBrewer)
